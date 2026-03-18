@@ -1,35 +1,5 @@
 Command 1: npx clawhub@latest install verified-agent-identity
-20 rùi
-21 hge
-22  tds
-23 dsmnfiv
-24fs 
-25 ỵ
-26fgsd 
-27fds f
-28bgdfh
-29hjgfh
-30fs s
-31 ew
-32 23213
-33 fdsf
-34 fgdsf
-35 dfs362
-36gdf
-ba bảy
-38
-39 nr
-40 hihi
-41 nẻ
-42 lun
-43 nưad
-44 bnua
-45 dfdfi
-46 nhé
-47 gd
-48
-49vew
-50 OKE
+51 ne
 
 
 
