@@ -1,6 +1,6 @@
 Command 1: npx clawhub@latest install verified-agent-identity
 51 ne
-
+52 s
 
 
 
