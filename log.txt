@@ -14,3 +14,4 @@ This will generate a verification link. Copy and open that link in your browser,
 Note: If you’re on Windows PowerShell and the last command gives an error, run this instead: node manualLinkHumanToAgent.js --challenge "{\"name\":\"My Agent\",\"description\":\"My personal AI agent\"}"
 OK im fine hihi
 ba nhe
+4 ne
