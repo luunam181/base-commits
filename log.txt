@@ -8,7 +8,7 @@ Command 1: npx clawhub@latest install verified-agent-identity
 57 
 58v 
 59 d
-60fn
+60f
 61
 62
 63
