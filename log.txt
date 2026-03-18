@@ -12,6 +12,6 @@ Command 1: npx clawhub@latest install verified-agent-identity
 30fs s
 31 ew
 32 23213
-
+33 fdsf
 
 
